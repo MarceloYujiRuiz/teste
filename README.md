@@ -3,7 +3,9 @@
 <p align="center">
   <strong>Juntos por um mundo sem fome</strong>
 </p>
+
 ---
+
 ## 📋 Índice
 
 - [Descrição do Projeto](#-descrição-do-projeto)
