@@ -3,15 +3,7 @@
 <p align="center">
   <strong>Juntos por um mundo sem fome</strong>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=1a6b35&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=DISCIPLINA&message=Programação Web Front-End&color=f4a31c&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=INSTITUIÇÃO&message=UTFPR&color=145228&style=for-the-badge"/>
-</p>
-
 ---
-
 ## 📋 Índice
 
 - [Descrição do Projeto](#-descrição-do-projeto)
