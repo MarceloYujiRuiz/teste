@@ -8,12 +8,12 @@
 
 ## Índice
 
-- [Descrição do Projeto](#-descrição-do-projeto)
-- [Funcionalidades](#-funcionalidades)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como Acessar](#-como-acessar)
-- [Integrantes](#-integrantes)
+- [Descrição do Projeto](#descrio-do-projeto)
+- [Funcionalidades](#funcionalidades)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Acessar](#como-acessar)
+- [Integrantes](#integrantes)
 
 ---
 
@@ -80,8 +80,8 @@ Acesse o seguinte link: https://marceloyujiruiz.github.io/Projeto-1-web/
 
 Projeto desenvolvido por:
 
-Marcelo Yuji Ruiz
-Maria Julia Pedroso de Oliveira Souza
+-Marcelo Yuji Ruiz
+-Maria Julia Pedroso de Oliveira Souza
 
 ---
 
